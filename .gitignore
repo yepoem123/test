@@ -1,0 +1,65 @@
+# OS-generated files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editor and IDE settings
+.vscode/
+.idea/
+*.code-workspace
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.swp
+*.swo
+*~
+
+# Logs and runtime artifacts
+*.log
+*.err
+*.out
+*.pid
+*.seed
+logs/
+
+# Environment files
+.env
+.env.*
+*.local
+
+# Temporary files
+tmp/
+temp/
+cache/
+.cache/
+
+# Dependency directories
+node_modules/
+vendor/
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.tox/
+.coverage
+htmlcov/
+
+# Java / Kotlin / Gradle
+.gradle/
+*.class
+
+# .NET
+bin/
+obj/
+
+# Build outputs
+build/
+out/
+release/
+debug/
